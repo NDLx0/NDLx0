@@ -8,7 +8,6 @@ I'm a Computer Engineering Student & a CTF player that's passion in CyberSec & P
 
 * ✉️  You can contact me at [nidhal.oussif@etudiant-isi.utm.tn](mailto:nidhal.oussif@etudiant-isi.utm.tn)
 * ⚡  I started recently writing some CTF challs
-* 
 ### Skills
 
 
