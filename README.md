@@ -1,9 +1,3 @@
-Hi 👋 My name is Nidhal Oussif
-==============================
-
-Computer Engineering Student & CTF player
------------------------------------------
-
 I'm a Computer Engineering Student & a CTF player that's passion in CyberSec & Penetration Testing. I've started to play around with WiFi hacking stuff, Social Engineering Toolkits & Metasploit modules since my high school (all the testing I've done within my own home lab), then started to learning Programming, Networking, & other IT Fundamental Knowledge during my first year in university & started to develop this passion through the CTFs In my git repo I'll be adding my writeup, exploit script, or any interesting stuff that I found throughout my journey.
 
 * Passion in CyberSec, Penetration Testing & a CTF player
